@@ -24,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Recursion
 |  |
 | ------- |
