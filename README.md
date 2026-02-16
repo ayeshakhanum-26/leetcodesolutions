@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0860-lemonade-change](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0860-lemonade-change) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/2327-number-of-people-aware-of-a-secret) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
