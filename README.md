@@ -53,4 +53,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/2327-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/2327-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
