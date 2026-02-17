@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
+| [0844-backspace-string-compare](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0844-backspace-string-compare) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Bit Manipulation
 |  |
@@ -95,4 +98,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
