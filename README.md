@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Simulation
 |  |
@@ -85,5 +88,6 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
