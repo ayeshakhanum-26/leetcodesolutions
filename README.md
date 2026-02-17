@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0860-lemonade-change](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0860-lemonade-change) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
@@ -17,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +74,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
