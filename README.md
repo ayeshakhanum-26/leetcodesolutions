@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0066-plus-one) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Recursion
