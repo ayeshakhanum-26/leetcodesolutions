@@ -48,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -71,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
