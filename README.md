@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -34,6 +35,7 @@
 | [0007-reverse-integer](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0066-plus-one) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -68,6 +70,7 @@
 | [0006-zigzag-conversion](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
