@@ -29,6 +29,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Binary Search
 |  |
 | ------- |
