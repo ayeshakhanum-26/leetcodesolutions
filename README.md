@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0018-4sum) |
 | [0844-backspace-string-compare](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -114,6 +116,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0018-4sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
