@@ -15,6 +15,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0860-lemonade-change](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0860-lemonade-change) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +142,16 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0022-generate-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
