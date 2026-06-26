@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -68,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0027-remove-element) |
 | [0844-backspace-string-compare](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
