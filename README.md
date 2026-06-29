@@ -16,6 +16,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0860-lemonade-change](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0860-lemonade-change) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0860-lemonade-change) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | ------- |
 | [0018-4sum](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0018-4sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayeshakhanum-26/leetcodesolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
